@@ -1,5 +1,7 @@
 # README
 
+* https://devcenter.heroku.com/articles/getting-started-with-rails5
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
